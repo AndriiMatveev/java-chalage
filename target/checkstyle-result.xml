@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\ApiResponseDto.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\ApiResponseTagsDto.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\ApiTagsDto.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\ApiUserDto.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\mapper\TagMapper.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\mapper\UserMapper.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\Main.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\model\Tag.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\model\User.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\service\HttpClient.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\service\UserService.java">
+</file>
+<file name="D:\projects\java-chalage\src\main\java\com\javachalageapp\service\UserServiceImpl.java">
+</file>
+</checkstyle>

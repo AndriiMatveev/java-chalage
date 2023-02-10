@@ -1,0 +1,12 @@
+com\javachalageapp\dto\ApiTagsDto.class
+com\javachalageapp\dto\ApiUserDto.class
+com\javachalageapp\service\HttpClient.class
+com\javachalageapp\service\UserService.class
+com\javachalageapp\model\Tag.class
+com\javachalageapp\dto\mapper\TagMapper.class
+com\javachalageapp\dto\ApiResponseDto.class
+com\javachalageapp\dto\ApiResponseTagsDto.class
+com\javachalageapp\service\UserServiceImpl.class
+com\javachalageapp\dto\mapper\UserMapper.class
+com\javachalageapp\Main.class
+com\javachalageapp\model\User.class

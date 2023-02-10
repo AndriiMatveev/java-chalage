@@ -1,0 +1,12 @@
+D:\projects\java-chalage\src\main\java\com\javachalageapp\model\Tag.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\model\User.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\ApiTagsDto.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\service\UserService.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\Main.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\service\UserServiceImpl.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\ApiResponseDto.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\ApiResponseTagsDto.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\ApiUserDto.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\mapper\UserMapper.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\service\HttpClient.java
+D:\projects\java-chalage\src\main\java\com\javachalageapp\dto\mapper\TagMapper.java

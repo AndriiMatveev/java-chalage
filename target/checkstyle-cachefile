@@ -1,0 +1,14 @@
+#Fri Feb 10 13:42:35 EET 2023
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\Main.java=1676028864148
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\dto\\ApiResponseDto.java=1675854859306
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\dto\\ApiResponseTagsDto.java=1675935812243
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\dto\\ApiTagsDto.java=1675935812212
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\dto\\ApiUserDto.java=1675936059601
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\dto\\mapper\\TagMapper.java=1676028633987
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\dto\\mapper\\UserMapper.java=1676028624252
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\model\\Tag.java=1675848245527
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\model\\User.java=1676028948145
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\service\\HttpClient.java=1676029340087
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\service\\UserService.java=1675694110188
+D\:\\projects\\java-chalage\\src\\main\\java\\com\\javachalageapp\\service\\UserServiceImpl.java=1676029239961
+configuration*?=1811DCC22CB124906332C274F48E0AED1CECD968
