@@ -1,4 +1,4 @@
-package com.javachalageapp.dto;
+package com.javachalangeapp.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;

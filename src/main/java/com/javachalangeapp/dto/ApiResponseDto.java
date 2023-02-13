@@ -1,11 +1,11 @@
-package com.javachalageapp.dto;
+package com.javachalangeapp.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 @Data
-public class ApiResponseTagsDto {
+public class ApiResponseDto {
     @JsonProperty("has_more")
     private boolean hasMore;
-    private ApiTagsDto[] items;
+    private ApiUserDto[] items;
 }

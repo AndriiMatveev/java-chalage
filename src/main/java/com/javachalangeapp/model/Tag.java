@@ -1,4 +1,4 @@
-package com.javachalageapp.model;
+package com.javachalangeapp.model;
 
 import lombok.Data;
 

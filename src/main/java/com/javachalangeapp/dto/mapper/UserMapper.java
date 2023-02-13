@@ -1,8 +1,10 @@
-package com.javachalageapp.dto.mapper;
+package com.javachalangeapp.dto.mapper;
 
-import com.javachalageapp.dto.ApiUserDto;
-import com.javachalageapp.model.User;
+import com.javachalangeapp.dto.ApiUserDto;
+import com.javachalangeapp.model.User;
+import org.springframework.stereotype.Component;
 
+@Component
 public class UserMapper {
     public User parseApiResponseDto(ApiUserDto dto) {
         User user = new User();

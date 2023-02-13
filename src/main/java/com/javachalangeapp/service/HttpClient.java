@@ -1,6 +1,5 @@
-package com.javachalageapp.service;
+package com.javachalangeapp.service;
 
-import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
 import org.apache.http.client.config.CookieSpecs;
@@ -9,16 +8,18 @@ import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClientBuilder;
+import org.springframework.stereotype.Component;
 
+@Component
 public class HttpClient {
     private final CloseableHttpClient httpClient = HttpClientBuilder.create()
             .setDefaultRequestConfig(RequestConfig.custom()
                 .setCookieSpec(CookieSpecs.STANDARD).build()).build();
 
-    private ObjectMapper objectMapper = new ObjectMapper();
+    private ObjectMapper objectMapper;
 
-    {
-        objectMapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+    public HttpClient(ObjectMapper objectMapper) {
+        this.objectMapper = objectMapper;
     }
 
     public <T> T get(String url, Class<T> clazz) {

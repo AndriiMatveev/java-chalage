@@ -1,8 +1,10 @@
-package com.javachalageapp.dto.mapper;
+package com.javachalangeapp.dto.mapper;
 
-import com.javachalageapp.dto.ApiTagsDto;
-import com.javachalageapp.model.Tag;
+import com.javachalangeapp.dto.ApiTagsDto;
+import com.javachalangeapp.model.Tag;
+import org.springframework.stereotype.Component;
 
+@Component
 public class TagMapper {
     public Tag parseApiTagsDto(ApiTagsDto dto) {
         Tag tag = new Tag();
